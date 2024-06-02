@@ -58,7 +58,7 @@ Client ⇒ Html ⇒ react
     1. app폴더 라우팅 역활을 함
     2. 렌더링할 페이지는 page.tsx로만든다.(무조건)
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f2b6cb6-f34c-4d7c-b52e-e7f618ff36b8/e3362154-7309-4dd0-a3c7-c53006408f9b/Untitled.png)
+    ![img](https://prod-files-secure.s3.us-west-2.amazonaws.com/5f2b6cb6-f34c-4d7c-b52e-e7f618ff36b8/e3362154-7309-4dd0-a3c7-c53006408f9b/Untitled.png)
     
 
 특별한 [`page.js` 파일](https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts#pages)이 루트 세그먼트를 공개적으로 접근 가능하게 만드는데 사용됩니다.
